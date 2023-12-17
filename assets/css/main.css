@@ -109,6 +109,10 @@
     width: 70px;
     padding: 5px;
   }
+  .tpoffcanvas__logo {
+    width: 70px;
+    padding: 5px;
+  }
 }
 
 /* Laptop Styles */
@@ -118,6 +122,9 @@
     margin-left: 40px;
   }
   .tp-footer-logo {
+    width: 70px;
+  }
+  .tpoffcanvas__logo {
     width: 70px;
   }
 }
